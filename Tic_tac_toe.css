@@ -1,0 +1,13 @@
+button{
+height:100px;width:100px;background-color:#4CAF50;}
+table,tr,td{margin-left:400px;margin-top:30px;}
+input[type=text]{width:310px;height:60px;background-color:#DCDCDC;}
+button,input[type=text]{border-radius:20px;}
+h1{font-weight:bold;}
+.fa-times{
+   font-size:80px;
+   
+}
+.fa-circle-o{
+   font-size:70px;
+}
